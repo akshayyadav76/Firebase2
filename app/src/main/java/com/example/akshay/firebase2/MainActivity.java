@@ -15,6 +15,9 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
+    String akshay;
+    int x=400;
+    int y=500;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
