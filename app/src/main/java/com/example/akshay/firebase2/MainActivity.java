@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
     String akshay;
     int x=400;
     int y=500;
+    // firebase is working first time right with database;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
