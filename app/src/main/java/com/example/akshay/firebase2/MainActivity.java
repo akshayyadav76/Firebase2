@@ -20,7 +20,10 @@ public class MainActivity extends AppCompatActivity {
     int y=500;
     // firebase is working first time right with database;
 
-    // i add push notification but it is not working right in all phones 
+    // i add push notification but it is not working right in all phones
+
+    // now we fix all issue happening in push notification now everthing is working right
+    // so lets marge it to master
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
